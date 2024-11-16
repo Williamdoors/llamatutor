@@ -27,6 +27,7 @@
 
 ## Future Tasks
 
+- [ ] Add a camera function for taking photos
 - [ ] Add a share & copy buttons that folks can click on after convos are generated
 - [ ] Add potential follow up questions + new chat at the end of chat page
 - [ ] Split the page into two pages and add back the footer
