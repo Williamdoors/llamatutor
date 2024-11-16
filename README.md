@@ -35,3 +35,4 @@
 - [ ] Add nice hamburger menu on mobile
 - [ ] Try out the generative UI stuff from Vercel
 - [ ] Add a nicer dropdown overall
+- [ ] "Generate Flashcards" Button to Complete in One Click.
